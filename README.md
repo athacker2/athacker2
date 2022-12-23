@@ -12,7 +12,7 @@ I love to learn! Whether it be low-level concepts relating to operating systems 
 ### My Past Work
 
 -   [**Visa Inc.**](https://usa.visa.com), where I interned on the Payment Products Development team, working on developing command-line tools in C++ and Assembler.
--   [**Gunrock Breakspace**](https://web.cs.ucdavis.edu/~zubair/students.html), an on-campus research group led by Professor Zubair Shafiq focused on cyber-security. I worked on developing methods to identifying browser-fingerprinting intent using ML models.
+-   [**Gunrock Breakspace**](https://web.cs.ucdavis.edu/~zubair/index.html), an on-campus research group led by Professor Zubair Shafiq focused on cyber-security. I worked on developing methods to identifying browser-fingerprinting intent using ML models.
 -   [**Hands Together**](https://www.handstogether-sa.org), a non-profit that provides early education to preschoolers. I worked on a software development team to build a full stack website for them using MongoDB, Express.js, React, and Node.js.
 
 ### Some Numbers!
