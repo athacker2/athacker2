@@ -18,5 +18,5 @@ I love to learn! Whether it be low-level concepts relating to operating systems 
 ### Some Numbers!
 
 <p align="middle">
-    <img width="80%" align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=athacker2" />
+    <img width="70%" align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=athacker2" />
 </p>
